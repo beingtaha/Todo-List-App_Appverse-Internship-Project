@@ -1,8 +1,13 @@
 COMPONENT HIERARCHY:
+
 App (Parent Component)
+
 |── AddTodo (Child - Form Component)
+
 └── TodoList (Child - Container Component)
+
     └── TodoItem (Grandchild - UI Component)
+    
 ------------------------------------------------------------------------------------------------------------------------------------------
 COMPONENT RESPONSIBILITIES:
 1.	APP COMPONENT: 
