@@ -6,7 +6,7 @@
 
 ## ✨ Live Demo
 
-🔗 **Live Preview:** [Coming Soon on Vercel](#) <!-- Yahan Vercel link dalna -->
+🔗 **Live Preview:** [Vercel](https://todo-list-app-appverse-internship-p.vercel.app/)
 
 ---
 
